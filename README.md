@@ -1,1 +1,1 @@
-# hdm-sp-2016
+# HdM summer project 2016
